@@ -1,8 +1,8 @@
-# Practice-Java
-Just for testing
+# Practice-Java-All
 
 
-I am starting back to practice the Java again
+This project is to practice Java and all.
 
+Feel free to contribute by adding new folders to the project.
 
-Third commit.
+Thanks.
